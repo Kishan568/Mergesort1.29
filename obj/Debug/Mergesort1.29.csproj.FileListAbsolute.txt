@@ -1,0 +1,8 @@
+E:\Assisted project\Section 8\Mergesort1.29\bin\Debug\Mergesort1.29.exe.config
+E:\Assisted project\Section 8\Mergesort1.29\bin\Debug\Mergesort1.29.exe
+E:\Assisted project\Section 8\Mergesort1.29\bin\Debug\Mergesort1.29.pdb
+E:\Assisted project\Section 8\Mergesort1.29\obj\Debug\Mergesort1.29.csproj.AssemblyReference.cache
+E:\Assisted project\Section 8\Mergesort1.29\obj\Debug\Mergesort1.29.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 8\Mergesort1.29\obj\Debug\Mergesort1.29.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 8\Mergesort1.29\obj\Debug\Mergesort1.29.exe
+E:\Assisted project\Section 8\Mergesort1.29\obj\Debug\Mergesort1.29.pdb
